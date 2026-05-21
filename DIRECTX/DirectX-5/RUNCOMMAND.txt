@@ -1,0 +1,1 @@
+g++ main.cpp -o shader_app.exe -ld3d11 -ldxgi -lgdi32 -D_UNICODE -mwindows -lstdc++
